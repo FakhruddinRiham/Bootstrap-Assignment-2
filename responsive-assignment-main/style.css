@@ -1,0 +1,79 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+
+    color: #363958;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+
+    color: #363958;
+margin: 0;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.name-highlight{
+    color: #363958;
+}
+.top-down{
+    margin-top: 50px;
+    padding-top: 20px;
+
+
+}
+.project-area{
+margin-top: 45px;
+}
+.Jacket-area{
+    margin-top: 10%;
+}
+.top-card{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 3px 3px 15px gray;
+    border-radius: 10px;
+    width: 300px;
+    height: 450px;
+}
+.top-card img{
+    background-color: #F1F1F1;
+   width: 85%;
+   height: 50%;
+   border-radius: 10px;
+   padding: 10px 10px;
+  
+}
+.top-card-footer{
+    background-color: white;
+    border: 0;
+}
+.top-side{
+    background-color:#FFFBF0;
+}
+
+.top-button{
+    background-image: linear-gradient(#A4BC46,#85A019);
+    color:#FFFFFF;
+   padding: 10px 20px;
+    border-radius: 10px;
+    font-weight:500;
+}
+.last-image{
+    height: 80%;
+    width: 500%;
+    padding-right: 20px;
+
+}
+.price-area{
+    color:  #FABE4C;
+    font-size:30px;
+    font-weight: 700;
+    
+}
+.logo-image{
+    height: 20px;
+}
